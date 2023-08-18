@@ -27,3 +27,45 @@ Summer @ ICERM : [https://icerm.brown.edu/summerug/#2023program](https://icerm.b
 ITRI : [https://itri.applytojob.com/](https://itri.applytojob.com/)
 <br>
 SURF-Caltech : [https://sfp.caltech.edu/undergraduate-research/programs/surf](https://sfp.caltech.edu/undergraduate-research/programs/surf)
+
+CERN: Dec-Jan <br>
+Max Planck Institutes: Varies by institute <br>
+Stanford SURF: Feb <br>
+Caltech SURF: Late Feb <br>
+MIT Summer Research: Jan-Feb (Varies by dept) <br>
+Harvard: Varies by dept <br>
+EPFL Summer@EPFL: Dec-Jan <br>
+ETH Zurich: Dec-Jan <br>
+UCLA-RIPS: Feb <br>
+KAUST: Varies, possibly rolling <br>
+OIST: Late Feb <br>
+IST Austria: Jan <br>
+MITACS Globalink: Previous Sep <br>
+DAAD WISE: Nov <br>
+SN Bose: Late Oct <br>
+Charpak Lab: Mar-Apr <br>
+ThinkSwiss: Jan <br>
+Gates-Cambridge: Typically Oct <br>
+NUS & NTU: Varies, some in Jan-Feb <br>
+UCLA: Varies <br>
+KEK: Jan <br>
+Rockefeller: Mar <br>
+Purdue SROP: Mar <br>
+Oxford: Varies <br>
+Berkeley SUPERB: Feb <br>
+IISTTF Viterbi: Dec <br>
+Erasmus Mundus: Varies <br>
+A*STAR SIPGA: Rolling, apply early <br>
+IISC Bangalore: Feb-Mar <br>
+MBZUAI: Varies <br>
+OSINT: Unknown <br>
+EU ERASMUS MUNDUS: Varies <br>
+SMART: Unknown <br>
+World Bank: Winter & summer <br>
+OECD: Mar <br>
+Alberta UARE: Jan-Feb <br>
+ASU SURI: Feb <br>
+UNSW: Varies <br>
+Monastir Tunisia: Check Institution <br>
+Khorana: Nov-Dec <br>
+ANU FRT: Varies <br>
